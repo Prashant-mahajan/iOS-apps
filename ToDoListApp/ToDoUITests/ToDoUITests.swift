@@ -1,14 +1,14 @@
 //
-//  ToDoListAppUITests.swift
-//  ToDoListAppUITests
+//  ToDoUITests.swift
+//  ToDoUITests
 //
-//  Created by Prashant Mahajan on 22/02/17.
+//  Created by Prashant Mahajan on 23/02/17.
 //  Copyright © 2017 Prashant Mahajan. All rights reserved.
 //
 
 import XCTest
 
-class ToDoListAppUITests: XCTestCase {
+class ToDoUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

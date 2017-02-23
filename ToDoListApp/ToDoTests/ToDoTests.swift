@@ -1,15 +1,15 @@
 //
-//  ToDoListAppTests.swift
-//  ToDoListAppTests
+//  ToDoTests.swift
+//  ToDoTests
 //
-//  Created by Prashant Mahajan on 22/02/17.
+//  Created by Prashant Mahajan on 23/02/17.
 //  Copyright © 2017 Prashant Mahajan. All rights reserved.
 //
 
 import XCTest
-@testable import ToDoListApp
+@testable import ToDo
 
-class ToDoListAppTests: XCTestCase {
+class ToDoTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
